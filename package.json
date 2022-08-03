@@ -1,0 +1,24 @@
+{
+  "name": "interface-api-dio",
+  "version": "1.0.0",
+  "description": "Desafio Interface API Dio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victormalve/Interface-API-Dio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victormalve/Interface-API-Dio/issues"
+  },
+  "homepage": "https://github.com/victormalve/Interface-API-Dio#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^5.0.1"
+  }
+}
